@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 89901,
       "digest": "sha256:86415ca941c88b1b12e79c49f24a88e5839df0624ba127a406125a510d77ad70",
-      "download_count": 71,
+      "download_count": 74,
       "created_at": "2026-08-27T23:52:19Z",
       "updated_at": "2026-08-27T23:52:19Z",
       "browser_download_url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.37.0/headroom-ai-0.37.0.tgz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13903214,
       "digest": "sha256:e961f892786f7577e75f2c26229f11e2609fc007083dae24d336e76fc4c72e58",
-      "download_count": 193,
+      "download_count": 197,
       "created_at": "2026-08-27T23:52:16Z",
       "updated_at": "2026-08-27T23:52:17Z",
       "browser_download_url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-win_amd64.whl"
