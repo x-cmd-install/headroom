@@ -4,7 +4,7 @@
 
 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 
-![headroom](https://repo.x-cmd.io/headroom.svg)
+![headroom](https://repo.x-cmd.io/headroom.svg?lang=zh)
 
 ## 安装
 
@@ -23,15 +23,27 @@ x install headroom
 - **最新版本**: `v0.37.0` (2026-08-27)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-08-27T21:18:26Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [headroom-ai-0.37.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom-ai-0.37.0.tgz) | 87.8 KiB | `native/unknown` |
+| [headroom-openclaw-0.37.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom-openclaw-0.37.0.tgz) | 35.9 KiB | `native/unknown` |
+| [headroom_ai-0.37.0-cp310-abi3-macosx_10_12_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-macosx_10_12_x86_64.whl) | 13.2 MiB | `native/darwin/x64` |
+| [headroom_ai-0.37.0-cp310-abi3-macosx_11_0_arm64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-macosx_11_0_arm64.whl) | 13.1 MiB | `native/darwin/arm64` |
+| [headroom_ai-0.37.0-cp310-abi3-manylinux_2_28_aarch64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-manylinux_2_28_aarch64.whl) | 13.2 MiB | `native/linux/arm64` |
+| [headroom_ai-0.37.0-cp310-abi3-manylinux_2_28_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-manylinux_2_28_x86_64.whl) | 13.3 MiB | `native/linux/x64` |
+| [headroom_ai-0.37.0-cp310-abi3-win_amd64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-win_amd64.whl) | 13.3 MiB | `other` |
+| [headroom_ai-0.37.0.tar.gz](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0.tar.gz) | 2.7 MiB | `native/unknown` |
 
 ## 流行度
 
-- **Star**: 71,135 · **Fork**: 5,453 · **开放 issue**: 1,025 · **贡献者**: 256
+- **Star**: 71,296 · **Fork**: 5,464 · **开放 issue**: 1,025 · **贡献者**: 256
 
 ## 累计统计
 
-- **发布数**: 169 · **已合并 PR**: 1581 · **开放 PR**: 339 · **已关闭 issue**: 718 · **开放 issue**: 307 · **提交数**: 2763
+- **发布数**: 169 · **已合并 PR**: 1583 · **开放 PR**: 345 · **已关闭 issue**: 719 · **开放 issue**: 306 · **提交数**: 2765
 
 ## 最近活动
 
@@ -43,12 +55,12 @@ x install headroom
 
 ## 代码规模
 
-合计: **563,978** 行代码（覆盖前 5 种语言、共 **2054** 个文件）。
+合计: **561,579** 行代码（覆盖前 5 种语言、共 **2054** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 400,420 | 31,375 | 77,344 | 1485 |
-| Json | 74,014 | 0 | 0 | 267 |
+| Python | 400,518 | 31,385 | 77,353 | 1485 |
+| Json | 71,517 | 0 | 0 | 267 |
 | Rust | 56,379 | 5,980 | 5,768 | 197 |
 | JavaScript | 13,964 | 294 | 179 | 14 |
 | TypeScript | 11,864 | 1,039 | 1,818 | 91 |
@@ -62,4 +74,4 @@ headroom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:36:58Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:39:43Z._
