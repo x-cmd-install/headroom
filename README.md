@@ -12,6 +12,18 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20
 x install headroom
 ```
 
+## Code insight
+
+Total: **561,507** lines of code across **2054** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 400,539 | 31,386 | 77,355 | 1485 |
+| Json | 71,419 | 0 | 0 | 267 |
+| Rust | 56,384 | 5,980 | 5,771 | 197 |
+| JavaScript | 13,964 | 294 | 179 | 14 |
+| TypeScript | 11,864 | 1,039 | 1,818 | 91 |
+
 ## Source
 
 - **Upstream**: <https://github.com/chopratejas/headroom>
@@ -23,6 +35,25 @@ x install headroom
 - **Latest**: `v0.37.0` (2026-08-27)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 8
+
+## Popularity
+
+- **Stars**: 71,348 · **Forks**: 5,467 · **Open issues**: 1,026 · **Contributors**: 256
+
+## Totals (cumulative)
+
+- **Releases**: 169 · **Merged PRs**: 1584 · **Open PRs**: 330 · **Closed issues**: 719 · **Open issues**: 307 · **Commits**: 2766
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 18 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -37,33 +68,9 @@ x install headroom
 | [headroom_ai-0.37.0-cp310-abi3-win_amd64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-win_amd64.whl) | 13.3 MiB | `other` |
 | [headroom_ai-0.37.0.tar.gz](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0.tar.gz) | 2.7 MiB | `native/unknown` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 71,296 · **Forks**: 5,464 · **Open issues**: 1,025 · **Contributors**: 256
-
-## Totals (cumulative)
-
-- **Releases**: 169 · **Merged PRs**: 1583 · **Open PRs**: 345 · **Closed issues**: 719 · **Open issues**: 306 · **Commits**: 2765
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 18 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 100 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **561,579** lines of code across **2054** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 400,518 | 31,385 | 77,353 | 1485 |
-| Json | 71,517 | 0 | 0 | 267 |
-| Rust | 56,379 | 5,980 | 5,768 | 197 |
-| JavaScript | 13,964 | 294 | 179 | 14 |
-| TypeScript | 11,864 | 1,039 | 1,818 | 91 |
+Reported by **3** distros on [repology.org](https://repology.org/project/headroom). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -74,4 +81,4 @@ Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:39:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:07:16Z._
