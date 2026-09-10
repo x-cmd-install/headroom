@@ -2,12 +2,12 @@ about:
   description: "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
   license: Apache-2.0
   homepage: https://docs.headroomlabs.ai/docs
-  head: 4e1f776
+  head: aab500b
   archived: false
   latestVersion: "v0.37.0"
   latestRelease: "v0.37.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:36:29Z
+  collectedAt: 2026-09-10T16:39:25Z
 timeline:
   created: 2026-01-07
   lastCommit: 2026-09-10
@@ -15,28 +15,28 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 71135
+  star: 71296
   watcher: 210
-  fork: 5453
+  fork: 5464
   release: 169
   contributor: 256
-  pullRequest: 2374
+  pullRequest: 2388
   issue: 1025
 language:
-  Python: 18754873
+  Python: 18759943
   Rust: 3036660
   JavaScript: 513551
   TypeScript: 448393
   HTML: 227892
   Shell: 81677
   PowerShell: 68921
-  Dockerfile: 21040
+  Dockerfile: 20991
   PLpgSQL: 11669
   C: 7497
   Makefile: 6962
   HCL: 1887
   CSS: 1845
-totalBytes: 23182867
+totalBytes: 23187888
 recent:
   last30d:
     since: 2026-08-11
@@ -88,22 +88,22 @@ recent:
     commit: 0
 total:
   release: 169
-  mergedPR: 1581
-  openPR: 339
-  closedIssue: 718
-  openIssue: 307
-  commit: 2763
+  mergedPR: 1583
+  openPR: 345
+  closedIssue: 719
+  openIssue: 306
+  commit: 2765
 ---
 path: /home/runner/.x-repo/github.com/chopratejas/headroom
-collectedAt: 2026-09-10T04:36:43Z
+collectedAt: 2026-09-10T16:39:35Z
 loc:
   Python:
-    code: 400420
-    comments: 31375
-    blanks: 77344
+    code: 400518
+    comments: 31385
+    blanks: 77353
     files: 1485
   Json:
-    code: 74014
+    code: 71517
     comments: 0
     blanks: 0
     files: 267
@@ -184,8 +184,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 13987
-    blanks: 5384
+    comments: 14023
+    blanks: 5393
     files: 85
   Text:
     code: 0
@@ -193,9 +193,9 @@ loc:
     blanks: 24
     files: 7
 total:
-  code: 570302
-  comments: 66234
-  blanks: 93573
+  code: 567903
+  comments: 66280
+  blanks: 93591
   files: 2206
 ---
 
