@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.37.0"
   latestRelease: "v0.37.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:06:56Z
+  collectedAt: 2026-09-10T22:54:30Z
 timeline:
   created: 2026-01-07
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 71348
-  watcher: 210
-  fork: 5467
+  star: 71365
+  watcher: 211
+  fork: 5468
   release: 169
   contributor: 256
-  pullRequest: 2396
+  pullRequest: 2398
   issue: 1026
 language:
   Python: 18760944
@@ -89,13 +89,13 @@ recent:
 total:
   release: 169
   mergedPR: 1584
-  openPR: 330
+  openPR: 332
   closedIssue: 719
   openIssue: 307
   commit: 2766
 ---
 path: /home/runner/.x-repo/github.com/chopratejas/headroom
-collectedAt: 2026-09-10T21:07:07Z
+collectedAt: 2026-09-10T22:54:42Z
 loc:
   Python:
     code: 400539
