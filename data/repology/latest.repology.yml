@@ -1,0 +1,31 @@
+- repo: aur
+  srcname: headroom
+  binname: headroom
+  visiblename: headroom
+  version: 0.4.2.0
+  origversion: 0.4.2.0-1
+  status: outdated
+  summary: Manager for license headers in source code files
+  maintainers:
+    - geyaeb@aur
+  licenses:
+    - BSD
+- repo: aur
+  srcname: headroom-bin
+  binname: headroom-bin
+  visiblename: headroom-bin
+  version: 2.1.1
+  origversion: 2.1.1-1
+  status: newest
+  summary: Audio loudness analyzer and gain adjustment tool for mastering workflows
+  maintainers:
+    - m-igashi@aur
+  licenses:
+    - MIT
+- repo: homebrew_casks
+  srcname: headroom
+  visiblename: Headroom
+  version: 0.9.15
+  origversion: null
+  status: outdated
+  summary: Reduce token usage for Claude Code and Codex
