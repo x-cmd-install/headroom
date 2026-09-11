@@ -38,11 +38,11 @@ Total: **561,507** lines of code across **2054** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,412 · **Forks**: 5,474 · **Open issues**: 1,028 · **Contributors**: 256
+- **Stars**: 71,582 · **Forks**: 5,482 · **Open issues**: 1,033 · **Contributors**: 256
 
 ## Totals (cumulative)
 
-- **Releases**: 169 · **Merged PRs**: 1584 · **Open PRs**: 335 · **Closed issues**: 719 · **Open issues**: 309 · **Commits**: 2766
+- **Releases**: 169 · **Merged PRs**: 1584 · **Open PRs**: 334 · **Closed issues**: 719 · **Open issues**: 314 · **Commits**: 2766
 
 ## Recent activity
 
@@ -81,4 +81,4 @@ Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:35:24Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:32:58Z._
