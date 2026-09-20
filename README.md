@@ -4,7 +4,7 @@
 
 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 
-![headroom](https://repo.x-cmd.io/headroom.svg)
+[![x-cmd/install — headroom Code Quality Monitoring Repo Card](https://repo.x-cmd.io/headroom.svg)](https://x-cmd.com/install/headroom)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install headroom
 
 ## Code insight
 
-Total: **573,763** lines of code across **2086** files in the top 5 languages.
+Total: **577,317** lines of code across **2091** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 412,708 | 32,370 | 79,567 | 1517 |
-| Json | 71,397 | 0 | 0 | 268 |
+| Python | 415,412 | 32,915 | 80,021 | 1522 |
+| Json | 72,184 | 0 | 0 | 268 |
 | Rust | 56,499 | 5,998 | 5,792 | 197 |
-| JavaScript | 13,963 | 294 | 179 | 13 |
+| JavaScript | 14,026 | 384 | 188 | 13 |
 | TypeScript | 11,864 | 1,039 | 1,818 | 91 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **573,763** lines of code across **2086** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.37.0` (2026-08-27)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 72,811 · **Forks**: 5,598 · **Open issues**: 1,057 · **Contributors**: 266
+- **Stars**: 73,131 · **Forks**: 5,624 · **Open issues**: 1,065 · **Contributors**: 266
 
 ## Totals (cumulative)
 
-- **Releases**: 169 · **Merged PRs**: 1618 · **Open PRs**: 350 · **Closed issues**: 736 · **Open issues**: 321 · **Commits**: 2800
+- **Releases**: 169 · **Merged PRs**: 1621 · **Open PRs**: 357 · **Closed issues**: 737 · **Open issues**: 328 · **Commits**: 2803
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:44:54Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:07:14Z._
