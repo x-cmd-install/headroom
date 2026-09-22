@@ -14,15 +14,15 @@ x install headroom
 
 ## 代码洞察
 
-合计: **577,317** 行代码（覆盖前 5 种语言、共 **2091** 个文件）。
+合计: **580,623** 行代码（覆盖前 5 种语言、共 **2099** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 415,412 | 32,915 | 80,021 | 1522 |
-| Json | 72,184 | 0 | 0 | 268 |
-| Rust | 56,499 | 5,998 | 5,792 | 197 |
+| Python | 418,627 | 33,395 | 80,571 | 1529 |
+| Json | 72,085 | 0 | 0 | 268 |
+| Rust | 56,629 | 6,010 | 5,790 | 197 |
 | JavaScript | 14,026 | 384 | 188 | 13 |
-| TypeScript | 11,864 | 1,039 | 1,818 | 91 |
+| TypeScript | 11,922 | 1,050 | 1,825 | 92 |
 
 ## 源代码
 
@@ -32,41 +32,41 @@ x install headroom
 
 ## 发布
 
-- **最新版本**: `v0.37.0` (2026-08-27)
-- **最近提交**: 2026-09-19
+- **最新版本**: `v0.38.0` (2026-09-21)
+- **最近提交**: 2026-09-21
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 73,289 · **Fork**: 5,636 · **开放 issue**: 1,071 · **贡献者**: 266
+- **Star**: 73,427 · **Fork**: 5,657 · **开放 issue**: 1,080 · **贡献者**: 271
 
 ## 累计统计
 
-- **发布数**: 169 · **已合并 PR**: 1621 · **开放 PR**: 368 · **已关闭 issue**: 736 · **开放 issue**: 335 · **提交数**: 2803
+- **发布数**: 170 · **已合并 PR**: 1637 · **开放 PR**: 363 · **已关闭 issue**: 740 · **开放 issue**: 340 · **提交数**: 2820
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-25 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-26 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-01 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-02 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [headroom-ai-0.37.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom-ai-0.37.0.tgz) | 87.8 KiB | `native/unknown` |
-| [headroom-openclaw-0.37.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom-openclaw-0.37.0.tgz) | 35.9 KiB | `native/unknown` |
-| [headroom_ai-0.37.0-cp310-abi3-macosx_10_12_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-macosx_10_12_x86_64.whl) | 13.2 MiB | `native/darwin/x64` |
-| [headroom_ai-0.37.0-cp310-abi3-macosx_11_0_arm64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-macosx_11_0_arm64.whl) | 13.1 MiB | `native/darwin/arm64` |
-| [headroom_ai-0.37.0-cp310-abi3-manylinux_2_28_aarch64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-manylinux_2_28_aarch64.whl) | 13.2 MiB | `native/linux/arm64` |
-| [headroom_ai-0.37.0-cp310-abi3-manylinux_2_28_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-manylinux_2_28_x86_64.whl) | 13.3 MiB | `native/linux/x64` |
-| [headroom_ai-0.37.0-cp310-abi3-win_amd64.whl](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0-cp310-abi3-win_amd64.whl) | 13.3 MiB | `other` |
-| [headroom_ai-0.37.0.tar.gz](https://github.com/chopratejas/headroom/releases/download/v0.37.0/headroom_ai-0.37.0.tar.gz) | 2.7 MiB | `native/unknown` |
+| [headroom-ai-0.38.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.38.0/headroom-ai-0.38.0.tgz) | 88.2 KiB | `native/unknown` |
+| [headroom-openclaw-0.38.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.38.0/headroom-openclaw-0.38.0.tgz) | 35.9 KiB | `native/unknown` |
+| [headroom_ai-0.38.0-cp310-abi3-macosx_10_12_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.38.0/headroom_ai-0.38.0-cp310-abi3-macosx_10_12_x86_64.whl) | 13.3 MiB | `native/darwin/x64` |
+| [headroom_ai-0.38.0-cp310-abi3-macosx_11_0_arm64.whl](https://github.com/chopratejas/headroom/releases/download/v0.38.0/headroom_ai-0.38.0-cp310-abi3-macosx_11_0_arm64.whl) | 13.3 MiB | `native/darwin/arm64` |
+| [headroom_ai-0.38.0-cp310-abi3-manylinux_2_28_aarch64.whl](https://github.com/chopratejas/headroom/releases/download/v0.38.0/headroom_ai-0.38.0-cp310-abi3-manylinux_2_28_aarch64.whl) | 13.3 MiB | `native/linux/arm64` |
+| [headroom_ai-0.38.0-cp310-abi3-manylinux_2_28_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.38.0/headroom_ai-0.38.0-cp310-abi3-manylinux_2_28_x86_64.whl) | 13.5 MiB | `native/linux/x64` |
+| [headroom_ai-0.38.0-cp310-abi3-win_amd64.whl](https://github.com/chopratejas/headroom/releases/download/v0.38.0/headroom_ai-0.38.0-cp310-abi3-win_amd64.whl) | 13.4 MiB | `other` |
+| [headroom_ai-0.38.0.tar.gz](https://github.com/chopratejas/headroom/releases/download/v0.38.0/headroom_ai-0.38.0.tar.gz) | 2.9 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ headroom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T05:00:11Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T04:56:08Z._
