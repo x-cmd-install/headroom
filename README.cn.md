@@ -32,41 +32,41 @@ x install headroom
 
 ## 发布
 
-- **最新版本**: `v0.40.0` (2026-10-06)
-- **最近提交**: 2026-10-13
+- **最新版本**: `v0.41.0` (2026-10-14)
+- **最近提交**: 2026-10-14
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 75,280 · **Fork**: 5,842 · **开放 issue**: 1,174 · **贡献者**: 321
+- **Star**: 75,383 · **Fork**: 5,850 · **开放 issue**: 1,183 · **贡献者**: 322
 
 ## 累计统计
 
-- **发布数**: 173 · **已合并 PR**: 2099 · **开放 PR**: 213 · **已关闭 issue**: 959 · **开放 issue**: 215 · **提交数**: 3281
+- **发布数**: 174 · **已合并 PR**: 2101 · **开放 PR**: 221 · **已关闭 issue**: 959 · **开放 issue**: 224 · **提交数**: 3282
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-16 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-17 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-19 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-24 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-15 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-17 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-18 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-20 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-25 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [headroom-ai-0.40.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.40.0/headroom-ai-0.40.0.tgz) | 94.1 KiB | `native/unknown` |
-| [headroom-openclaw-0.40.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.40.0/headroom-openclaw-0.40.0.tgz) | 46.8 KiB | `native/unknown` |
-| [headroom_ai-0.40.0-cp310-abi3-macosx_10_12_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.40.0/headroom_ai-0.40.0-cp310-abi3-macosx_10_12_x86_64.whl) | 14.7 MiB | `native/darwin/x64` |
-| [headroom_ai-0.40.0-cp310-abi3-macosx_11_0_arm64.whl](https://github.com/chopratejas/headroom/releases/download/v0.40.0/headroom_ai-0.40.0-cp310-abi3-macosx_11_0_arm64.whl) | 14.7 MiB | `native/darwin/arm64` |
-| [headroom_ai-0.40.0-cp310-abi3-manylinux_2_28_aarch64.whl](https://github.com/chopratejas/headroom/releases/download/v0.40.0/headroom_ai-0.40.0-cp310-abi3-manylinux_2_28_aarch64.whl) | 14.7 MiB | `native/linux/arm64` |
-| [headroom_ai-0.40.0-cp310-abi3-manylinux_2_28_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.40.0/headroom_ai-0.40.0-cp310-abi3-manylinux_2_28_x86_64.whl) | 14.9 MiB | `native/linux/x64` |
-| [headroom_ai-0.40.0-cp310-abi3-win_amd64.whl](https://github.com/chopratejas/headroom/releases/download/v0.40.0/headroom_ai-0.40.0-cp310-abi3-win_amd64.whl) | 14.8 MiB | `other` |
-| [headroom_ai-0.40.0.tar.gz](https://github.com/chopratejas/headroom/releases/download/v0.40.0/headroom_ai-0.40.0.tar.gz) | 3.2 MiB | `native/unknown` |
+| [headroom-ai-0.41.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom-ai-0.41.0.tgz) | 94.8 KiB | `native/unknown` |
+| [headroom-openclaw-0.41.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom-openclaw-0.41.0.tgz) | 48.5 KiB | `native/unknown` |
+| [headroom_ai-0.41.0-cp310-abi3-macosx_10_12_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-macosx_10_12_x86_64.whl) | 14.8 MiB | `native/darwin/x64` |
+| [headroom_ai-0.41.0-cp310-abi3-macosx_11_0_arm64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-macosx_11_0_arm64.whl) | 14.8 MiB | `native/darwin/arm64` |
+| [headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_aarch64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_aarch64.whl) | 14.8 MiB | `native/linux/arm64` |
+| [headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_x86_64.whl) | 14.9 MiB | `native/linux/x64` |
+| [headroom_ai-0.41.0-cp310-abi3-win_amd64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-win_amd64.whl) | 14.9 MiB | `other` |
+| [headroom_ai-0.41.0.tar.gz](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0.tar.gz) | 3.2 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ headroom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T04:50:57Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T04:31:22Z._
