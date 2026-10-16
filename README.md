@@ -14,12 +14,12 @@ x install headroom
 
 ## Code insight
 
-Total: **662,302** lines of code across **2299** files in the top 5 languages.
+Total: **665,980** lines of code across **2301** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 480,364 | 38,085 | 92,118 | 1693 |
-| Json | 79,965 | 0 | 0 | 275 |
+| Python | 481,641 | 38,148 | 92,320 | 1695 |
+| Json | 82,365 | 0 | 0 | 275 |
 | Rust | 64,191 | 6,722 | 6,301 | 218 |
 | TypeScript | 15,087 | 1,429 | 2,308 | 100 |
 | JavaScript | 14,276 | 421 | 199 | 13 |
@@ -33,27 +33,27 @@ Total: **662,302** lines of code across **2299** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.41.0` (2026-10-14)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-16
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 75,383 · **Forks**: 5,850 · **Open issues**: 1,183 · **Contributors**: 322
+- **Stars**: 75,466 · **Forks**: 5,862 · **Open issues**: 1,189 · **Contributors**: 322
 
 ## Totals (cumulative)
 
-- **Releases**: 174 · **Merged PRs**: 2101 · **Open PRs**: 221 · **Closed issues**: 959 · **Open issues**: 224 · **Commits**: 3282
+- **Releases**: 174 · **Merged PRs**: 2121 · **Open PRs**: 218 · **Closed issues**: 963 · **Open issues**: 226 · **Commits**: 3302
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-16 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-17 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-18 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-20 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-16 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-17 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-18 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-19 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-21 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-26 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:31:22Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:35:01Z._
