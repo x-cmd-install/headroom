@@ -14,11 +14,11 @@ x install headroom
 
 ## Code insight
 
-Total: **665,980** lines of code across **2301** files in the top 5 languages.
+Total: **669,769** lines of code across **2311** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 481,641 | 38,148 | 92,320 | 1695 |
+| Python | 485,430 | 38,401 | 93,042 | 1705 |
 | Json | 82,365 | 0 | 0 | 275 |
 | Rust | 64,191 | 6,722 | 6,301 | 218 |
 | TypeScript | 15,087 | 1,429 | 2,308 | 100 |
@@ -38,22 +38,22 @@ Total: **665,980** lines of code across **2301** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 75,466 · **Forks**: 5,862 · **Open issues**: 1,189 · **Contributors**: 322
+- **Stars**: 75,537 · **Forks**: 5,867 · **Open issues**: 1,195 · **Contributors**: 322
 
 ## Totals (cumulative)
 
-- **Releases**: 174 · **Merged PRs**: 2121 · **Open PRs**: 218 · **Closed issues**: 963 · **Open issues**: 226 · **Commits**: 3302
+- **Releases**: 174 · **Merged PRs**: 2134 · **Open PRs**: 207 · **Closed issues**: 965 · **Open issues**: 230 · **Commits**: 3314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-18 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-19 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-21 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-17 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-18 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-19 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-20 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-22 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-27 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:35:01Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:19:20Z._
