@@ -38,22 +38,22 @@ Total: **672,067** lines of code across **2315** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 77,352 · **Forks**: 6,007 · **Open issues**: 1,242 · **Contributors**: 322
+- **Stars**: 77,582 · **Forks**: 6,020 · **Open issues**: 1,269 · **Contributors**: 322
 
 ## Totals (cumulative)
 
-- **Releases**: 174 · **Merged PRs**: 2144 · **Open PRs**: 271 · **Closed issues**: 966 · **Open issues**: 276 · **Commits**: 3324
+- **Releases**: 174 · **Merged PRs**: 2144 · **Open PRs**: 291 · **Closed issues**: 966 · **Open issues**: 303 · **Commits**: 3324
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -68,6 +68,14 @@ Total: **672,067** lines of code across **2315** files in the top 5 languages.
 | [headroom_ai-0.41.0-cp310-abi3-win_amd64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-win_amd64.whl) | 14.9 MiB | `other` |
 | [headroom_ai-0.41.0.tar.gz](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0.tar.gz) | 3.2 MiB | `native/unknown` |
 
+## Distribution status
+
+Reported by **4** distros on [repology.org](https://repology.org/project/headroom). **1** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| openSUSE Tumbleweed | `0.41.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `headroom` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +85,4 @@ Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:44:42Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:42:18Z._
