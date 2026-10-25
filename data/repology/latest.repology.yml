@@ -1,3 +1,10 @@
+- repo: homebrew_casks
+  srcname: headroom
+  visiblename: Headroom
+  version: 0.9.49
+  origversion: null
+  status: outdated
+  summary: Reduce token usage for Claude Code and Codex
 - repo: aur
   srcname: headroom
   binname: headroom
@@ -22,13 +29,6 @@
     - m-igashi@aur
   licenses:
     - MIT
-- repo: homebrew_casks
-  srcname: headroom
-  visiblename: Headroom
-  version: 0.9.48
-  origversion: null
-  status: outdated
-  summary: Reduce token usage for Claude Code and Codex
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: headroom
