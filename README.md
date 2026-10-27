@@ -14,11 +14,11 @@ x install headroom
 
 ## Code insight
 
-Total: **686,715** lines of code across **2337** files in the top 5 languages.
+Total: **686,838** lines of code across **2338** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 493,977 | 38,912 | 94,606 | 1730 |
+| Python | 494,100 | 38,934 | 94,634 | 1731 |
 | Json | 82,414 | 0 | 0 | 276 |
 | Rust | 64,254 | 6,722 | 6,301 | 218 |
 | JavaScript | 21,415 | 591 | 221 | 13 |
@@ -32,41 +32,41 @@ Total: **686,715** lines of code across **2337** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.41.0` (2026-10-14)
-- **Last commit**: 2026-10-24
+- **Latest**: `v0.42.0` (2026-10-26)
+- **Last commit**: 2026-10-26
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 77,829 · **Forks**: 6,047 · **Open issues**: 1,286 · **Contributors**: 333
+- **Stars**: 77,953 · **Forks**: 6,062 · **Open issues**: 1,288 · **Contributors**: 334
 
 ## Totals (cumulative)
 
-- **Releases**: 174 · **Merged PRs**: 2195 · **Open PRs**: 261 · **Closed issues**: 997 · **Open issues**: 289 · **Commits**: 3375
+- **Releases**: 175 · **Merged PRs**: 2197 · **Open PRs**: 274 · **Closed issues**: 999 · **Open issues**: 289 · **Commits**: 3377
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-05 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-27 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-01 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-06 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [headroom-ai-0.41.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom-ai-0.41.0.tgz) | 94.8 KiB | `native/unknown` |
-| [headroom-openclaw-0.41.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom-openclaw-0.41.0.tgz) | 48.5 KiB | `native/unknown` |
-| [headroom_ai-0.41.0-cp310-abi3-macosx_10_12_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-macosx_10_12_x86_64.whl) | 14.8 MiB | `native/darwin/x64` |
-| [headroom_ai-0.41.0-cp310-abi3-macosx_11_0_arm64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-macosx_11_0_arm64.whl) | 14.8 MiB | `native/darwin/arm64` |
-| [headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_aarch64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_aarch64.whl) | 14.8 MiB | `native/linux/arm64` |
-| [headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-manylinux_2_28_x86_64.whl) | 14.9 MiB | `native/linux/x64` |
-| [headroom_ai-0.41.0-cp310-abi3-win_amd64.whl](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0-cp310-abi3-win_amd64.whl) | 14.9 MiB | `other` |
-| [headroom_ai-0.41.0.tar.gz](https://github.com/chopratejas/headroom/releases/download/v0.41.0/headroom_ai-0.41.0.tar.gz) | 3.2 MiB | `native/unknown` |
+| [headroom-ai-0.42.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.42.0/headroom-ai-0.42.0.tgz) | 108.3 KiB | `native/unknown` |
+| [headroom-openclaw-0.42.0.tgz](https://github.com/chopratejas/headroom/releases/download/v0.42.0/headroom-openclaw-0.42.0.tgz) | 48.5 KiB | `native/unknown` |
+| [headroom_ai-0.42.0-cp310-abi3-macosx_10_12_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.42.0/headroom_ai-0.42.0-cp310-abi3-macosx_10_12_x86_64.whl) | 14.9 MiB | `native/darwin/x64` |
+| [headroom_ai-0.42.0-cp310-abi3-macosx_11_0_arm64.whl](https://github.com/chopratejas/headroom/releases/download/v0.42.0/headroom_ai-0.42.0-cp310-abi3-macosx_11_0_arm64.whl) | 14.9 MiB | `native/darwin/arm64` |
+| [headroom_ai-0.42.0-cp310-abi3-manylinux_2_28_aarch64.whl](https://github.com/chopratejas/headroom/releases/download/v0.42.0/headroom_ai-0.42.0-cp310-abi3-manylinux_2_28_aarch64.whl) | 14.9 MiB | `native/linux/arm64` |
+| [headroom_ai-0.42.0-cp310-abi3-manylinux_2_28_x86_64.whl](https://github.com/chopratejas/headroom/releases/download/v0.42.0/headroom_ai-0.42.0-cp310-abi3-manylinux_2_28_x86_64.whl) | 15.0 MiB | `native/linux/x64` |
+| [headroom_ai-0.42.0-cp310-abi3-win_amd64.whl](https://github.com/chopratejas/headroom/releases/download/v0.42.0/headroom_ai-0.42.0-cp310-abi3-win_amd64.whl) | 15.0 MiB | `other` |
+| [headroom_ai-0.42.0.tar.gz](https://github.com/chopratejas/headroom/releases/download/v0.42.0/headroom_ai-0.42.0.tar.gz) | 3.3 MiB | `native/unknown` |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:41:24Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:09:16Z._
