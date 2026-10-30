@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 110925,
       "digest": "sha256:372c4dc7ba7bec4fc359571d16e5723e7f43471dd0deff1addba47ece52b9302",
-      "download_count": 27,
+      "download_count": 44,
       "created_at": "2026-10-26T23:28:26Z",
       "updated_at": "2026-10-26T23:28:26Z",
       "browser_download_url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.42.0/headroom-ai-0.42.0.tgz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 49706,
       "digest": "sha256:abcbc357d4b0ed83f474ffaa22d9089421c011afc8890a0cd0bbde2be6ac1180",
-      "download_count": 9,
+      "download_count": 13,
       "created_at": "2026-10-26T23:28:26Z",
       "updated_at": "2026-10-26T23:28:27Z",
       "browser_download_url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.42.0/headroom-openclaw-0.42.0.tgz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15609111,
       "digest": "sha256:531f25f0a1bed35130301c3219fc94391a72f1b550c4ad456af6ed2345d1ef05",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-26T23:28:22Z",
       "updated_at": "2026-10-26T23:28:23Z",
       "browser_download_url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.42.0/headroom_ai-0.42.0-cp310-abi3-macosx_10_12_x86_64.whl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15605050,
       "digest": "sha256:b175cccbfb8cbcabd0a9e9406379eee910d10fe14130f55b7beabec62194a48e",
-      "download_count": 14,
+      "download_count": 19,
       "created_at": "2026-10-26T23:28:22Z",
       "updated_at": "2026-10-26T23:28:23Z",
       "browser_download_url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.42.0/headroom_ai-0.42.0-cp310-abi3-macosx_11_0_arm64.whl"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15598366,
       "digest": "sha256:82972c52804f7d691dcf73b8f32acbd754b8c2262e56b2365d0741d99e517db8",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-26T23:28:22Z",
       "updated_at": "2026-10-26T23:28:23Z",
       "browser_download_url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.42.0/headroom_ai-0.42.0-cp310-abi3-manylinux_2_28_aarch64.whl"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15776655,
       "digest": "sha256:fbb3ceb8f6c3f208edcc3aad43c0e03e0db45636d9d2061525ad0d0a166da146",
-      "download_count": 14,
+      "download_count": 18,
       "created_at": "2026-10-26T23:28:22Z",
       "updated_at": "2026-10-26T23:28:23Z",
       "browser_download_url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.42.0/headroom_ai-0.42.0-cp310-abi3-manylinux_2_28_x86_64.whl"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 15724229,
       "digest": "sha256:df31ddff684f8a8f1001d3ab2b04c6b508dfc32e6d7ff3464cf669b7085deb63",
-      "download_count": 44,
+      "download_count": 61,
       "created_at": "2026-10-26T23:28:22Z",
       "updated_at": "2026-10-26T23:28:25Z",
       "browser_download_url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.42.0/headroom_ai-0.42.0-cp310-abi3-win_amd64.whl"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3467391,
       "digest": "sha256:ee69710457e0e860dadf78bebf891847a62f1f46adafc033e0e6a26dee451f04",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2026-10-26T23:28:24Z",
       "updated_at": "2026-10-26T23:28:25Z",
       "browser_download_url": "https://github.com/headroomlabs-ai/headroom/releases/download/v0.42.0/headroom_ai-0.42.0.tar.gz"

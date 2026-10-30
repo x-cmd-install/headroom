@@ -25,7 +25,7 @@
 - repo: homebrew_casks
   srcname: headroom
   visiblename: Headroom
-  version: 0.9.51
+  version: 0.9.52
   origversion: null
   status: outdated
   summary: Reduce token usage for Claude Code and Codex
