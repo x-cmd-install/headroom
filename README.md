@@ -14,11 +14,11 @@ x install headroom
 
 ## Code insight
 
-Total: **695,512** lines of code across **2366** files in the top 5 languages.
+Total: **696,185** lines of code across **2366** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 501,470 | 39,352 | 95,899 | 1757 |
+| Python | 502,143 | 39,412 | 95,986 | 1757 |
 | Json | 83,259 | 0 | 0 | 276 |
 | Rust | 64,550 | 6,731 | 6,322 | 218 |
 | JavaScript | 21,494 | 594 | 224 | 14 |
@@ -38,22 +38,22 @@ Total: **695,512** lines of code across **2366** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 78,288 · **Forks**: 6,103 · **Open issues**: 1,303 · **Contributors**: 344
+- **Stars**: 78,397 · **Forks**: 6,114 · **Open issues**: 1,304 · **Contributors**: 344
 
 ## Totals (cumulative)
 
-- **Releases**: 175 · **Merged PRs**: 2255 · **Open PRs**: 275 · **Closed issues**: 1099 · **Open issues**: 204 · **Commits**: 3435
+- **Releases**: 175 · **Merged PRs**: 2256 · **Open PRs**: 278 · **Closed issues**: 1109 · **Open issues**: 195 · **Commits**: 3436
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-01 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-03 | 84 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-04 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-09 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-01 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-01 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-02 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-04 | 81 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-05 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-10 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:55:19Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:37:17Z._
