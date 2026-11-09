@@ -38,22 +38,22 @@ Total: **721,792** lines of code across **2432** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 79,098 · **Forks**: 6,184 · **Open issues**: 1,324 · **Contributors**: 385
+- **Stars**: 79,179 · **Forks**: 6,192 · **Open issues**: 1,327 · **Contributors**: 385
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 2460 · **Open PRs**: 137 · **Closed issues**: 1202 · **Open issues**: 122 · **Commits**: 3639
+- **Releases**: 177 · **Merged PRs**: 2460 · **Open PRs**: 146 · **Closed issues**: 1203 · **Open issues**: 124 · **Commits**: 3639
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 44 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-13 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-18 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-10 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-10 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-11 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-13 | 41 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-14 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-19 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:56:35Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:16:30Z._
