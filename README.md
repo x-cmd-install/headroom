@@ -14,15 +14,15 @@ x install headroom
 
 ## Code insight
 
-Total: **737,767** lines of code across **2489** files in the top 5 languages.
+Total: **738,078** lines of code across **2489** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 535,438 | 40,959 | 102,082 | 1862 |
+| Python | 535,722 | 40,994 | 102,135 | 1862 |
 | Json | 84,102 | 0 | 0 | 279 |
 | Rust | 68,643 | 7,089 | 6,723 | 229 |
 | JavaScript | 22,391 | 721 | 275 | 16 |
-| TypeScript | 18,604 | 1,826 | 2,738 | 103 |
+| TypeScript | 18,631 | 1,832 | 2,741 | 103 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **737,767** lines of code across **2489** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.44.0` (2026-11-10)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-18
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 79,868 · **Forks**: 6,259 · **Open issues**: 1,369 · **Contributors**: 398
+- **Stars**: 80,125 · **Forks**: 6,281 · **Open issues**: 1,387 · **Contributors**: 398
 
 ## Totals (cumulative)
 
-- **Releases**: 178 · **Merged PRs**: 2591 · **Open PRs**: 148 · **Closed issues**: 1246 · **Open issues**: 123 · **Commits**: 3774
+- **Releases**: 178 · **Merged PRs**: 2595 · **Open PRs**: 170 · **Closed issues**: 1253 · **Open issues**: 134 · **Commits**: 3779
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 30 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-20 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-29 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -70,10 +70,11 @@ Total: **737,767** lines of code across **2489** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **4** distros on [repology.org](https://repology.org/project/headroom). **1** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/headroom). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
+| Nix unstable | `0.42.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.42.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -85,4 +86,4 @@ Install metadata for headroom lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:08:45Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:32:05Z._
