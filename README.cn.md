@@ -14,12 +14,12 @@ x install headroom
 
 ## 代码洞察
 
-合计: **739,189** 行代码（覆盖前 5 种语言、共 **2492** 个文件）。
+合计: **742,859** 行代码（覆盖前 5 种语言、共 **2513** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 536,814 | 41,050 | 102,364 | 1865 |
-| Json | 84,102 | 0 | 0 | 279 |
+| Python | 539,471 | 41,203 | 102,925 | 1873 |
+| Json | 85,114 | 0 | 0 | 292 |
 | Rust | 68,643 | 7,089 | 6,723 | 229 |
 | JavaScript | 22,391 | 721 | 275 | 16 |
 | TypeScript | 18,631 | 1,832 | 2,741 | 103 |
@@ -33,27 +33,27 @@ x install headroom
 ## 发布
 
 - **最新版本**: `v0.45.0` (2026-11-22)
-- **最近提交**: 2026-11-24
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 80,700 · **Fork**: 6,328 · **开放 issue**: 1,404 · **贡献者**: 397
+- **Star**: 80,805 · **Fork**: 6,338 · **开放 issue**: 1,406 · **贡献者**: 399
 
 ## 累计统计
 
-- **发布数**: 179 · **已合并 PR**: 2610 · **开放 PR**: 217 · **已关闭 issue**: 1256 · **开放 issue**: 148 · **提交数**: 3795
+- **发布数**: 179 · **已合并 PR**: 2639 · **开放 PR**: 192 · **已关闭 issue**: 1269 · **开放 issue**: 137 · **提交数**: 3823
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 31 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-26 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 31 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -68,15 +68,6 @@ x install headroom
 | [headroom_ai-0.45.0-cp310-abi3-win_amd64.whl](https://github.com/chopratejas/headroom/releases/download/v0.45.0/headroom_ai-0.45.0-cp310-abi3-win_amd64.whl) | 15.2 MiB | `other` |
 | [headroom_ai-0.45.0.tar.gz](https://github.com/chopratejas/headroom/releases/download/v0.45.0/headroom_ai-0.45.0.tar.gz) | 3.5 MiB | `native/unknown` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/headroom) 上共有 **5** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.44.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.42.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 headroom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `headroom` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -86,4 +77,4 @@ headroom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:39:19Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:29:19Z._
